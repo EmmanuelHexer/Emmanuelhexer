@@ -37,10 +37,11 @@
 
 ## Featured Projects
 
-### [Hexer Units](https://github.com/Emmanuelhexer/hexer-units)
-Minimal, precise unit converter with HTML, CSS, and JavaScript. Converts between kilograms, grams, pounds, and more.
+### [Hexer Units](https://github.com/Emmanuelhexer/hexerunits-frontend)
+A modern unit converter built with **React** (frontend) and **C# ASP.NET Core** (backend). Supports conversions between units such as **kilograms ↔ grams**, **Celsius ↔ Fahrenheit**, and more. Designed with a clean, responsive UI and a scalable API architecture.
 
-### [PERN Store](https://github.com/Emmanuelhexer/pern-store)
+
+### [PERN Store](https://github.com/Emmanuelhexer/product-store)
 Full-stack e-commerce platform using PostgreSQL, Express, React, and Node.js. Includes CRUD features and clean UI architecture.
 
 ---
