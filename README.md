@@ -76,11 +76,11 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelhexer&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=6" 
-    height="150"
+    height="170"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emmanuelhexer&theme=radical"
-    height="150"
+    height="170"
   />
 </p>
 
