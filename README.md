@@ -8,7 +8,7 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi,+I'm+Emmanuel+Hexer;Full-Stack+Developer;JavaScript+Wizard;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi,+I'm+Emmanuel+Hexer;" alt="Typing SVG" />
 </p>
 
 <p align="center"><strong>Full-Stack Developer · JavaScript Specialist · UI/UX Enthusiast</strong></p>
@@ -61,20 +61,26 @@
 
 ---
 
-## 🔹 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelhexer&show_icons=true&theme=transparent&hide_title=true&hide_border=true&custom_title=GitHub+Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelhexer&theme=transparent&hide_border=true" height="150" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
+<!-- GitHub Stats Section - Side by Side -->
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelhexer&layout=compact&theme=transparent&hide_border=true&langs_count=8" 
-    style="width: 100%; max-width: 800px; height: 230px; object-fit: contain;" 
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api?username=Emmanuelhexer&show_icons=true&theme=radical&hide_title=true&hide_border=true&border_radius=10&custom_title=GitHub+Stats" 
+    height="170"
   />
-</div>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelhexer&theme=radical&hide_border=true&border_radius=10" 
+    height="170"
+  />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelhexer&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=6" 
+    height="200"
+  />
+</p>
+
 
 ---
 
