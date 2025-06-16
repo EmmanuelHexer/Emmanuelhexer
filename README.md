@@ -28,11 +28,11 @@
 
 ## Featured Projects
 
-### [Hexer Units](https://github.com/Emmanuelhexer/hexer-units)
+### [Hexer Units](https://github.com/Emmanuelhexer/HexerUnits-Frontend)
 A minimal and precise unit converter built with HTML, CSS, and JavaScript.  
 Supports conversions between kilograms, grams, pounds, and more.
 
-### [PERN Store](https://github.com/Emmanuelhexer/pern-store)
+### [PERN Store](https://github.com/Emmanuelhexer/Product-Store)
 A full-stack e-commerce application built with PostgreSQL, Express, React, and Node.js.  
 Includes CRUD functionality, product management, and clean UI architecture.
 
