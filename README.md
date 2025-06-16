@@ -55,16 +55,27 @@ A fully responsive restaurant website built with **React** and **CSS**. Designed
 
 <!-- GitHub Insights -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelhexer&show_icons=true&theme=transparent&hide_title=true&hide_border=true&custom_title=GitHub+Stats" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelhexer&theme=transparent&hide_border=true" height="150" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Emmanuelhexer&show_icons=true&theme=transparent&hide_title=true&hide_border=true&custom_title=GitHub+Stats" 
+    style="max-height: 130px; width: auto;" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelhexer&theme=transparent&hide_border=true" 
+    style="max-height: 130px; width: auto;" 
+    alt="GitHub Streak"
+  />
 </div>
 
 <!-- Languages Chart -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelhexer&layout=compact&theme=transparent&hide_border=true&langs_count=8" max-width="100%" alt="Top Languages" height="250"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelhexer&layout=compact&theme=transparent&hide_border=true&langs_count=8" 
+    style="width: 100%; height:250px; object-fit: contain;" 
+    alt="Top Languages"
+  />
 </div>
 
----
 
 ## Connect With Me
 
