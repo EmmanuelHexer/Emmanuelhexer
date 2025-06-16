@@ -16,10 +16,6 @@
 
 ---
 
-Got it! Here's the revised **About Me** section — clean, professional, and confident, without exaggeration:
-
----
-
 ### 🔹 About Me
 
 * Full-stack JavaScript developer (React, Node.js, Express, MongoDB/PostgreSQL)
