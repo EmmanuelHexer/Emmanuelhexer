@@ -40,17 +40,16 @@ Includes CRUD functionality, product management, and clean UI architecture.
 
 ## GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelhexer&show_icons=true&theme=transparent&hide_title=true&hide_border=true&custom_title=GitHub+Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelhexer&theme=transparent&hide_border=true" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelhexer&layout=compact&theme=transparent&hide_border=true" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelhexer&show_icons=true&theme=transparent&hide_title=true&hide_border=true&custom_title=GitHub+Stats" height="150" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelhexer&theme=transparent&hide_border=true" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelhexer&layout=compact&theme=transparent&hide_border=true" height="150" />
+
+</div>
 
 ---
 
