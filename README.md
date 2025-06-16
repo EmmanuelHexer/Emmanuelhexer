@@ -12,7 +12,7 @@
 </p>
 
 <p align="center"><strong>Full-Stack Developer · JavaScript Specialist · UI/UX Enthusiast</strong></p>
-<p align="center">Crafting elegant interfaces, scalable backends, and powerful digital experiences.</p>
+<p align="center">Building elegant interfaces, scalable backends, and meaningful experiences for real-world users.</p>
 
 ---
 
