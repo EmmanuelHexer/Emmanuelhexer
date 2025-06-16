@@ -55,8 +55,8 @@ A fully responsive restaurant website built with **React** and **CSS**. Designed
 
 <!-- GitHub Insights -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelhexer&show_icons=true&theme=transparent&hide_title=true&hide_border=true&custom_title=GitHub+Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelhexer&theme=transparent&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelhexer&show_icons=true&theme=transparent&hide_title=true&hide_border=true&custom_title=GitHub+Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelhexer&theme=transparent&hide_border=true" height="180" />
 </div>
 
 <!-- Languages Chart -->
