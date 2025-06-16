@@ -44,6 +44,11 @@ A modern unit converter built with **React** (frontend) and **C# ASP.NET Core** 
 ### [PERN Store](https://github.com/Emmanuelhexer/product-store)
 Full-stack e-commerce platform using PostgreSQL, Express, React, and Node.js. Includes CRUD features and clean UI architecture.
 
+### [Milly's Cuisine](https://www.millyscuisine.com/)
+A fully responsive restaurant website built with **React** and **CSS**. Designed to be clean, modern, and user-friendly, with smooth navigation and a layout that works beautifully across all devices. Built to showcase a real restaurant brand and deliver a great browsing experience.
+
+
+
 ---
 
 ## GitHub Insights
