@@ -1,45 +1,53 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Emmanuelhexer/Emmanuelhexer/main/banner.png" alt="Emmanuel Hexer Banner" />
+</p>
+
 <h1 align="center">Emmanuel Hexer</h1>
 <p align="center">
   Full-Stack Developer · JavaScript Specialist · UI/UX Enthusiast
 </p>
 <p align="center">
-  Building scalable web applications, solving real-world problems, and writing clean, efficient code.
+  Focused on building performant, real-world applications through clean code and elegant design.
 </p>
 
 ---
 
 ## About Me
 
-- Focused on full-stack development with the JavaScript ecosystem
-- Currently working on a 1000+ JavaScript Projects Challenge
-- Learning deeply through building — from micro utilities to full-stack systems
-- Passionate about code quality, system design, and elegant UI/UX
-- Contact: emmanuelhexer@gmail.com
+- Full-stack developer working with the JavaScript ecosystem (React, Node.js, Express, MongoDB/PostgreSQL)
+- Building a 1000+ JavaScript Projects Challenge for deep mastery
+- Experienced with both JavaScript and C# for backend development
+- Committed to clean architecture, intuitive UX, and scalable backends
+- Email: **emmanuelhexer@gmail.com**
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,mongodb,html,css,tailwind,vite,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,mongodb,html,css,tailwind,vite,git,github,vscode,figma,dotnet,csharp" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### [Hexer Units](https://github.com/Emmanuelhexer/HexerUnits-Frontend)
-A minimal and precise unit converter built with HTML, CSS, and JavaScript.  
-Supports conversions between kilograms, grams, pounds, and more.
+### [Hexer Units Frontend](https://github.com/Emmanuelhexer/HexerUnits-Frontend)
+A minimalist and precise unit converter built with HTML, CSS, and JavaScript.  
+Supports conversion between kilograms, grams, pounds, and more.
 
-### [PERN Store](https://github.com/Emmanuelhexer/Product-Store)
-A full-stack e-commerce application built with PostgreSQL, Express, React, and Node.js.  
-Includes CRUD functionality, product management, and clean UI architecture.
+### [Product Store](https://github.com/Emmanuelhexer/product-store)
+A full-stack e-commerce platform built with PostgreSQL, Express, React, and Node.js.  
+Includes CRUD functionality and clean UI/UX structure.
+
+### [Product Store Backend (.NET/C#)](https://github.com/Emmanuelhexer/product-store-backend)
+A backend API built with C# and ASP.NET Core.  
+Implements secure and scalable product management endpoints.
 
 ---
 
 ## GitHub Insights
-
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
@@ -70,5 +78,5 @@ Includes CRUD functionality, product management, and clean UI architecture.
 ---
 
 <p align="center">
-  "Crafting interfaces, engineering systems, and delivering solutions — one line at a time."
+  “Crafting interfaces, engineering systems, and delivering solutions — one line at a time.”
 </p>
