@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,mongodb,html,css,tailwind,vite,git,github,vscode,figma" />
-</p>" />
-</p>
 <h1 align="center">Emmanuel Hexer</h1>
 <p align="center">
   Full-Stack Developer · JavaScript Specialist · UI/UX Enthusiast
