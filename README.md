@@ -16,13 +16,17 @@
 
 ---
 
-## 🔹 About Me
+Got it! Here's the revised **About Me** section — clean, professional, and confident, without exaggeration:
 
-- Full-stack JavaScript developer (React, Node.js, Express, MongoDB/PostgreSQL)  
-- Completing a **1000+ JavaScript Projects Challenge** for full mastery  
-- Passionate about architecture, accessibility, and performance  
-- Obsessed with developer UX, clean code, and intuitive UI  
-- Email: **emmanuelhexer@gmail.com**
+---
+
+### 🔹 About Me
+
+* Full-stack JavaScript developer (React, Node.js, Express, MongoDB/PostgreSQL)
+* Completing a **1000+ JavaScript Projects Challenge** for full mastery
+* Passionate about architecture, accessibility, and performance
+* Focused on building real-world applications that scale and feel great to use
+* Email: **[emmanuelhexer@gmail.com](mailto:emmanuelhexer@gmail.com)**
 
 ---
 
