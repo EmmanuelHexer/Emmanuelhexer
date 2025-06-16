@@ -1,3 +1,4 @@
+<img src="https://www.colourbox.com/vector/web-development-coding-and-programming-futuristic-banner-computer-code-on-laptop-vector-54525121" />
 <h1 align="center">Emmanuel Hexer</h1>
 <p align="center">
   Full-Stack Developer · JavaScript Specialist · UI/UX Enthusiast
