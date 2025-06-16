@@ -61,23 +61,26 @@
 
 ---
 
-<!-- GitHub Stats Section - Side by Side -->
+<!-- GitHub Stats - 2x2 Grid Layout -->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Emmanuelhexer&show_icons=true&theme=radical&hide_title=true&hide_border=true&border_radius=10&custom_title=GitHub+Stats" 
-    height="150"
+    height="170"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelhexer&theme=radical&hide_border=true&border_radius=10" 
-    height="150"
+    height="170"
   />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelhexer&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=6" 
-    height="170"
+    height="180"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emmanuelhexer&theme=radical"
+    height="180"
   />
 </p>
 
