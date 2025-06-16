@@ -63,7 +63,7 @@ A fully responsive restaurant website built with **React** and **CSS**. Designed
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelhexer&layout=compact&theme=transparent&hide_border=true&langs_count=8" 
-    style="width: 100%; height:250px; object-fit: contain;" 
+    style="width: 100%; height:200px; object-fit: contain;" 
     alt="Top Languages"
   />
 </div>
