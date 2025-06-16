@@ -16,7 +16,7 @@
 
 ---
 
-### 🔹 About Me
+## 🔹 About Me
 
 * Full-stack JavaScript developer (React, Node.js, Express, MongoDB/PostgreSQL)
 * Completing a **1000+ JavaScript Projects Challenge** for full mastery
