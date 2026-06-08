@@ -1,7 +1,7 @@
 <!-- HEADER: Banner -->
 <p align="center">
   <img 
-    src="https://camo.githubusercontent.com/64caf9016869591bbcf79720ad78d0645d4ae11549961c8f47f9cb595838b2e3/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032312f3732302f3932302f6f726967696e616c2f706978656c2d6a6566662d6d6172696f2e6769663f31353732373039343333" 
+    src="https://images.unsplash.com/photo-1605379399642-870262d3d051?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D" 
     style="width: 100%; height: 240px; object-fit: cover; border-radius: 10px;" 
   />
 </p>
